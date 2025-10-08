@@ -138,9 +138,7 @@
 ### 方式二：Telegram频道
 加入我们的官方Telegram频道，获取最新更新和技术支持：
 
-📢 **官方频道**: [@官方频道名称](https://t.me/bamlp)
-
-💬 **技术支持群**: [点击加入](https://t.me/bamlp)
+📢 **Telegram频道**: [@bamlp](https://t.me/bamlp)
 
 > 💡 **提示**: 请仅从官方渠道获取软件，避免使用来源不明的版本
 
@@ -269,13 +267,9 @@ A: 请访问官方网站或联系官方频道了解试用政策。
 
 ### 官方渠道
 
-🌐 **官方网站**: [点击访问](https://www.cdrfc.com/)
+🌐 **官方网站**: [https://www.cdrfc.com/](https://www.cdrfc.com/)
 
-📢 **Telegram频道**: [@官方频道名称](https://t.me/bamlp)
-
-💬 **技术支持群**: [点击加入](https://t.me/bamlp)
-
-📧 **商务合作**: 邮箱地址
+📢 **Telegram频道**: [@bamlp](https://t.me/bamlp)
 
 ---
 
